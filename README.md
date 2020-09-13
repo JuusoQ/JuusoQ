@@ -1,7 +1,7 @@
 ## Welcome to my Github account 👋
 
 ### Who am I?
-* 👔 Marketing automation solution architect / developer. I'm working with Salesforce Marketing Cloud, Heroku, Node.js and other stuff on daily basis. 
+* 👔 Marketing automation solution architect / full-stack developer. I'm working with Salesforce Marketing Cloud, Heroku, Node.js and other stuff on daily basis. 
 * 🎓 I have BSc in Computer Science from University of Turku and I'm studying software engineering and business at Tampere University. Estimated graduation next year
 
 ### 🌱 I'm interested in?
